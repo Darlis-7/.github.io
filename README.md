@@ -33,7 +33,7 @@
 
   <!-- ====== E-MAIL ======
        O href "mailto:" abre o programa de e-mail. -->
-  <p>E-mail: <a href="mailto:darlis.silva7@gmail.com">voce@exemplo.com</a></p>
+  <p>E-mail: <a href="mailto:voce@exemplo.com">darlis.silva7@gmail.com</a></p>
 
   <!-- ====== CURSOS ====== -->
   <h2>Cursos</h2>
@@ -48,7 +48,7 @@
   <h2>Minhas atividades</h2>
   <ul>
     <li><a href="https://github.com/engsoft-ifal/intw-bsi-2026-2-ex-u0-01-primeira-pagina-darlis-7/graphs/commit-activity">Atividade 1</a></li>
-    <li><a href="https://TROQUE-pelo-link-da-atividade-2">Atividade 2</a></li>
+    <li><a href="https://github.com/engsoft-ifal/intw-bsi-2026-2-ex-u0-01-primeira-pagina-darlis-7/graphs/commit-activity">Atividade 2</a></li>
   </ul>
 
 </body>
